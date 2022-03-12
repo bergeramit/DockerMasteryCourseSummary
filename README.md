@@ -1,3 +1,10 @@
+# Course Official Repo
+
+is placed here:
+```
+https://github.com/BretFisher/udemy-docker-mastery.git
+```
+
 # Creating and Using Containers Like a Boss
 
 Image - the application, includes the configs etc
